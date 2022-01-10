@@ -1,1 +1,2 @@
-# jwt-node
+# Blog do código
+> Um blog simples em Node.js
